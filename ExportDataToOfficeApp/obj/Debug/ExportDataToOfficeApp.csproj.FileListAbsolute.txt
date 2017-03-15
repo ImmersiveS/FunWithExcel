@@ -1,0 +1,11 @@
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csprojResolveAssemblyReference.cache
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.MainForm.resources
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.Properties.Resources.resources
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.GenerateResource.Cache
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe.config
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.exe
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\bin\Debug\ExportDataToOfficeApp.pdb
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.exe
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.pdb
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.NewCarDialog.resources
+D:\Projects\ExportDataToOfficeApp\ExportDataToOfficeApp\obj\Debug\ExportDataToOfficeApp.csproj.ResolveComReference.cache
